@@ -38,18 +38,13 @@ exam-allocation-system/
 
 ## How To Run
 1. Clone the repo
-git clone https://github.com/idunnua/exam-allocation-system
+	git clone https://github.com/idunnua/exam-allocation-system
 cd exam-allocation-system
 2. Install requirements
 	pip install -r requirements.txt
 3. Put your data in /data
 4. Run the full automation:
-python main.py
-
-## Sample Outputs
-- Cleaned_Timetable.xlsx → Basic time slot mapping
-- Expanded_Timetable.xlsx → No venue conflicts
-- Assigned_Staff_Slots.xlsx → Fair and complete SP assignment
+	python main.py
 
 ## Author
 Idunnuoluwa Adebambo
