@@ -1,0 +1,611 @@
+Day_Paper_ID,CourseCode,CourseStart,CourseEnd,CoursePeriod,ExamDayId,IsActive,Semester,Session,Hall,HallID
+1--1,ABE 204,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,1000 CAP LT HALL,61
+1--1,ABE 204,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,COLBIOS AUD,1
+1--1,AEM 502,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,CAD,8
+1--1,AEM 502,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,CPL,12
+1--1,APH 506,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,JAO3,17
+1--1,BOT 402,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,AUD II,86
+1--1,CHM 228,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,PISAD AUD,76
+1--1,CMS 202,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,ANE1,6
+1--1,CMS 202,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,ANE2,7
+1--1,CVE 520,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,AUD I,87
+1--1,EMT 518,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,AUD III,93
+1--1,ETS 306,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,ELBOG I,77
+1--1,ETS 306,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,ELBOG II,78
+1--1,FIS 310,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,MP01,18
+1--1,FST 502,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,JAO2,16
+1--1,GNS 106,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,JAO1,15
+1--1,HTM 502,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,CENTS-AUD,58
+1--1,MCB 410,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,MP02,19
+1--1,MCB 410,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,MPL,20
+1--1,PCP 510,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,AGRIC LAB 1,69
+1--1,PCP 510,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,AGRIC LAB 2,70
+1--1,STS 214,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,ENG-AUD,13
+1--1,VBA 214,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,VET 300,32
+1--1,VBA 214,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,VET AUD,36
+1--1,VPR 402,9:00am,12:00 noon,Morning (9am - 12noon),1,1,2,2024/2025,VET 200,31
+1--2,AAD 516,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,AUD II,86
+1--2,ANN 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,AGRIC LAB 1,69
+1--2,ANN 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,AGRIC LAB 2,70
+1--2,ARD 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,JAO2,16
+1--2,CHM 406,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,COLBIOS AUD,1
+1--2,CMS 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ANE1,6
+1--2,CMS 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ANE2,7
+1--2,CPT 514,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,AUD I,87
+1--2,CVE 350,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,PISAD AUD,76
+1--2,ELE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,MP01,18
+1--2,ELE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,MPL,20
+1--2,ELE 514,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ENG-AUD,13
+1--2,EMT 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,JAO1,15
+1--2,ETS 312,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ELBOG I,77
+1--2,ETS 312,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ELBOG II,78
+1--2,FIS 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,CAD,8
+1--2,FST 306,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,AUD III,93
+1--2,GLY 316,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,COLFHEC2,11
+1--2,HTM 308,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,MP02,19
+1--2,MTE 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,ACAD C4-C6,80
+1--2,MTS 214,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,1000 CAP LT HALL,61
+1--2,NTD 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,JAO3,17
+1--2,VBA 214 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,VET ANAT LAB,39
+1--2,VCH 602,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,VET AUD,36
+1--2,VPM 402 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,VET MICRO LAB,67
+1--2,WMA 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,CPL,12
+1--2,ZOO 262,2:00pm,5:00pm,Afternoon(2pm - 5pm),1,1,2,2024/2025,TETFUND BIO LAB,64
+2--1,ABE 508,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ABE LR,74
+2--1,AAD 512,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,JAO1,15
+2--1,ABE 302,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,VET AUD,36
+2--1,ACC 102,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ELBOG I,77
+2--1,ACC 102,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ELBOG II,78
+2--1,ARD 504,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,COLBIOS AUD,1
+2--1,BCH 414,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ANE2,7
+2--1,CSC 448,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,1000 CAP LT HALL,61
+2--1,CVE 318,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,AUD I,87
+2--1,ELE 310,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,AUD III,93
+2--1,EMT 520,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,CENTS-AUD,58
+2--1,ETS 414,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ACCT-400LR,53
+2--1,ETS 414,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ECO-400LR,54
+2--1,ETS 414,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ETS-400LR,46
+2--1,ETS 414,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,BFN-400LR,55
+2--1,FRM 518,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,MPL,20
+2--1,FST 316,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,MP02,19
+2--1,HSM 418,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,PATTERN LAB,59
+2--1,HTM 202,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,COLFHEC1,10
+2--1,HTM 202,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,COLFHEC2,11
+2--1,HTM 504,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,AUD II,86
+2--1,MCB 412,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ENG-AUD,13
+2--1,MCE 302,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,PISAD AUD,76
+2--1,MCE 506,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,MCE LR,75
+2--1,MTE 302,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ANE1,6
+2--1,MTS 424,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,JAO2,16
+2--1,PCP 504,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,JAO3,17
+2--1,PCP 504,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,CAD,8
+2--1,PRM 500,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,MP01,18
+2--1,VCM 502,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,VET 400,33
+2--1,VPC 402,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,VET 300,32
+2--1,VPR 312,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,VET 200,31
+2--1,ZOO 470,9:00am,12:00 noon,Morning (9am - 12noon),2,1,2,2024/2025,ACAD C1-C3,79
+2--2,ABG 500,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,CAD,8
+2--2,ABG 500,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,JAO1,15
+2--2,ABG 500,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,JAO2,16
+2--2,BIO 208,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD II,86
+2--2,CHM 408,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ACAD C1-C3,79
+2--2,CHM 408,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ACAD C4-C6,80
+2--2,CSC 214,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,JAO3,17
+2--2,CSC 416,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,MPL,20
+2--2,EMT 310,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ENG-AUD,13
+2--2,ETS 208,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ELBOG I,77
+2--2,ETS 208,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ELBOG II,78
+2--2,ETS 320,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,VET AUD,36
+2--2,FST  312,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ANE1,6
+2--2,FST  312,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ANE2,7
+2--2,FWM 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,MP02,19
+2--2,FWP 408/412,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD I,87
+2--2,401,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD I,87
+2--2,403,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD I,87
+2--2,405,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD I,87
+2--2,GLY 310,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ACAD A3,81
+2--2,HRT 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,CENTS-AUD,58
+2--2,HSM 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,COLFHEC1,10
+2--2,HSM 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,COLFHEC2,11
+2--2,HSM 432,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,COLFHEC3,65
+2--2,HTM 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AUD III,93
+2--2,LIS 114,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,ACCT-400LR,53
+2--2,MCE 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,1000 CAP LT HALL,61
+2--2,MCE 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,COLBIOS AUD,1
+2--2,SOS 520,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AGRIC LAB 1,69
+2--2,SOS 520,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,AGRIC LAB 2,70
+2--2,VPR 312 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,VET_PARA_LAB,49
+2--2,WMA 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,MP01,18
+2--2,WRM 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),2,1,2,2024/2025,PISAD AUD,76
+3--1,AAD 506,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,AUD I,87
+3--1,ABE 514,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ELBOG II,78
+3--1,AEM 212,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,JAO2,16
+3--1,ANN 506,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,JAO3,17
+3--1,ANN 506,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,JAO1,15
+3--1,ARD 518,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,CAD,8
+3--1,BOT 410,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,AUD III,93
+3--1,CVE 510/ CVE 514,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,MP02,19
+3--1,FIS 318,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ANE1,6
+3--1,FIS 318,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ANE2,7
+3--1,FRM 512,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,A110,3
+3--1,FRM 512,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,A105,2
+3--1,GLY 320/GLY 322,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,GEO_ROOM1,98
+3--1,HRT 506,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,AUD II,86
+3--1,HSM 414,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,CENTS-AUD,58
+3--1,IFT 102,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,1000 CAP LT HALL,61
+3--1,MTS 452,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ACAD C1-C3,79
+3--1,MTS 452,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ACAD C4-C6,80
+3--1,NTD 214,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,COLFHEC1,10
+3--1,NTD 214,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,COLFHEC2,11
+3--1,PCP 508,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,ENG-AUD,13
+3--1,PHS 412,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,COLBIOS AUD,1
+3--1,SOS 514,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,AGRIC LAB 1,69
+3--1,SOS 514,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,AGRIC LAB 2,70
+3--1,VBA 202,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,VET AUD,36
+3--1,VCT 502,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,VET 300,32
+3--1,VCT 602,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,VET 400,33
+3--1,VPT 402,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,VET 200,31
+3--1,WRM 508,9:00am,12:00 noon,Morning (9am - 12noon),3,1,2,2024/2025,PISAD AUD,76
+3--2,ABE 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,AUD I,87
+3--2,ABE 524,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,AUD II,86
+3--2,AEM 514,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,COLBIOS AUD,1
+3--2,CHM 412,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,JAO3,17
+3--2,CMS 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,1000 CAP LT HALL,61
+3--2,CPT 516,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ACAD C1-C3,79
+3--2,CSC 420,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,MP03/04,66
+3--2,CVE 328,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,CENTS-AUD,58
+3--2,ELE 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ANE1,6
+3--2,ETS 314,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ACCT-400LR,53
+3--2,ETS 314,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ECO-400LR,54
+3--2,ETS 314,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ETS-400LR,46
+3--2,FIS 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,AUD III,93
+3--2,FST 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ENG-AUD,13
+3--2,FWP 402/406/414,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ANE2,7
+3--2,407,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ANE2,7
+3--2,409,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ANE2,7
+3--2,GLY 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,PISAD AUD,76
+3--2,HRT 503,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,CPL,12
+3--2,HRT 503,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,R205,29
+3--2,HSM 212,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,VET AUD,36
+3--2,MCE 350,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,ELBOG I,77
+3--2,PBS 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,CAD,8
+3--2,PRM 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,JAO1,15
+3--2,STS 104,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,MP02,19
+3--2,STS 454,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,MP01,18
+3--2,VBA 202 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,VET ANAT LAB,39
+3--2,VCT 502 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,VET THERIO LAB,97
+3--2,VPT 402 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,VET PATH LAB,38
+3--2,WMA 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),3,1,2,2024/2025,JAO2,16
+4--1,ABE 510 ABE 520,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ABE LR,74
+4--1,ABG 504,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ACAD C4-C6,80
+4--1,ABG 504,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ACAD B5,84
+4--1,AFP 405/406/407/408,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,AGRIC LAB 1,69
+4--1,AFP 405/406/407/408,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,AGRIC LAB 2,70
+4--1,ANP 508,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ANE1,6
+4--1,APH 508,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,JAO3,17
+4--1,BCH 416,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,VET AUD,36
+4--1,BIO 210,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,CENTS-AUD,58
+4--1,BOT 412,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ANE2,7
+4--1,CHM 424,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,AUD II,86
+4--1,CMS 104,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,1000 CAP LT HALL,61
+4--1,CPT 304,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,AUD I,87
+4--1,CVE 320,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,AUD III,93
+4--1,EMT 314,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,MP02,19
+4--1,ETS 406,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ELBOG I,77
+4--1,ETS 406,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ELBOG II,78
+4--1,FST 310,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ENG-AUD,13
+4--1,FWM 316,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,JAO1,15
+4--1,GLY 318,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,GEO_ROOM1,98
+4--1,HRT 202,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,MP01,18
+4--1,HTM 306,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,COLFHEC1,10
+4--1,HTM 306,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,COLFHEC2,11
+4--1,LIS 104,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,ACAD C1-C3,79
+4--1,MTE 518 /520,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,PISAD AUD,76
+4--1,NTD 408,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,COLBIOS AUD,1
+4--1,PBS 306,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,CAD,8
+4--1,PCP 302,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,JAO2,16
+4--1,VPC 302,9:00am,12:00 noon,Morning (9am - 12noon),4,1,2,2024/2025,VET 400,33
+4--2,AAD 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,JAO2,16
+4--2,BOT 212,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ACAD C1-C3,79
+4--2,CVE 516,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD I,87
+4--2,ELE 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ANE1,6
+4--2,ELE 350,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ANE2,7
+4--2,EMT 104,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,MP02,19
+4--2,ETS 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ELBOG I,77
+4--2,ETS 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ELBOG II,78
+4--2,ETS 318,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,COLBIOS AUD,1
+4--2,FIS 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ENG-AUD,13
+4--2,FWP 404/410,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD III,93
+4--2,411,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD III,93
+4--2,413,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD III,93
+4--2,415,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD III,93
+4--2,HTM 104,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,CENTS-AUD,58
+4--2,HTM 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,JAO3,17
+4--2,LIS 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,ACAD B3,83
+4--2,MCE 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,VET AUD,36
+4--2,MCE 316,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,AUD II,86
+4--2,PHS 362,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,1000 CAP LT HALL,61
+4--2,PRM 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,CAD,8
+4--2,STS 112,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,MP01,18
+4--2,VPC 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,VET 200,31
+4--2,WRM 514,2:00pm,5:00pm,Afternoon(2pm - 5pm),4,1,2,2024/2025,JAO1,15
+5--1,ABE 516,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,MP01,18
+5--1,ABG 304,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ANE1,6
+5--1,ABG 304,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ANE2,7
+5--1,ANN 510,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,MP02,19
+5--1,APH 304,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,1000 CAP LT HALL,61
+5--1,ARD 514,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,JAO2,16
+5--1,BAM 102,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,JAO3,17
+5--1,BCH 410,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,COLBIOS AUD,1
+5--1,BOT 414,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ENG-AUD,13
+5--1,DTS 106,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ACAD B3,83
+5--1,EMT 312,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,MPL,20
+5--1,ETS 212,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ELBOG I,77
+5--1,ETS 212,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ELBOG II,78
+5--1,FIS 314,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,VET AUD,36
+5--1,FIS 314,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,VET 200,31
+5--1,FWP 416,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AUD III,93
+5--1,417,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AUD III,93
+5--1,419,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AUD III,93
+5--1,GLY 102,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,CENTS-AUD,58
+5--1,GLY 204,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,PISAD AUD,76
+5--1,HSM 402 P,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,TEXTILE LAB,60
+5--1,HTM 106,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AGRIC LAB 1,69
+5--1,HTM 106,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AGRIC LAB 2,70
+5--1,MCB 402,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,CAD,8
+5--1,MCB 402,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,CPL,12
+5--1,NTD 412,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ACAD C1-C3,79
+5--1,NTD 412,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,ACAD C4-C6,80
+5--1,PHS 450,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,JAO1,15
+5--1,PRM 304,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AUD I,87
+5--1,VCM 602,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,VET 400,33
+5--1,WMA 314,9:00am,12:00 noon,Morning (9am - 12noon),5,1,2,2024/2025,AUD II,86
+5--2,ABE 530,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,GLR III,73
+5--2,AEM 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ANE1,6
+5--2,AEM 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ANE2,7
+5--2,ANP 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,JAO1,15
+5--2,BOT 106,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,VET AUD,36
+5--2,ELE 510/ELE 516,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,CENTS-AUD,58
+5--2,EMT 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,MP02,19
+5--2,ETS 308,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,AUD II,86
+5--2,ETS 408,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ELBOG I,77
+5--2,ETS 408,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ELBOG II,78
+5--2,FIS 306,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,MP01,18
+5--2,FIS 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ACAD C1-C3,79
+5--2,FIS 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ACAD B3,83
+5--2,FWM 320,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,ENG-AUD,13
+5--2,HSM 410,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,TEXTILE LAB,60
+5--2,MCE 318,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,1000 CAP LT HALL,61
+5--2,MCE 520,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,GLR I,71
+5--2,MTE 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,PISAD AUD,76
+5--2,NTD 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,AUD I,87
+5--2,PCP 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,JAO2,16
+5--2,PCP 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,JAO3,17
+5--2,PCP 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,PPCP LR,88
+5--2,STS 476,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,COLBIOS AUD,1
+5--2,VCM 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,VET 300,32
+5--2,VPM 312 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,VET MICRO LAB,67
+5--2,WMA 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),5,1,2,2024/2025,AUD III,93
+6--1,ABE 512,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ABE LR,74
+6--1,AEM 508,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,RC203,28
+6--1,ANP 502,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,JAO3,17
+6--1,BCH 404,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ACAD C1-C3,79
+6--1,BCH 404,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ACAD C4-C6,80
+6--1,BOT 404,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,CPL,12
+6--1,BOT 404,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,R205,29
+6--1,CPT 508,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,CAD,8
+6--1,ELE 506,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ENG-AUD,13
+6--1,EMT 514,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ACAD B5,84
+6--1,ETS 304,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ELBOG I,77
+6--1,ETS 304,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ELBOG II,78
+6--1,ETS 402,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ANE1,6
+6--1,ETS 402,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,ANE2,7
+6--1,FIS 302,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,JAO2,16
+6--1,FST 204,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,AUD I,87
+6--1,FWM 318,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,VET AUD,36
+6--1,FWM 318,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,VET 200,31
+6--1,GLY 314,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,CENTS-AUD,58
+6--1,HRT 508,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,MP01,18
+6--1,HSM 208,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,AUD III,93
+6--1,HSM 406,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,MP02,19
+6--1,HSM 406,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,MPL,20
+6--1,HSM 434,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,COLBIOS AUD,1
+6--1,MCE 320,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,GLR I,71
+6--1,MCE 320,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,GLR II,72
+6--1,PRM 502,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,1000 CAP LT HALL,61
+6--1,PRM 502,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,TETFUND PHS LAB,62
+6--1,SOS 516,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,JAO1,15
+6--1,VBB 202,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,AUD II,86
+6--1,VPM 402,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,VET 300,32
+6--1,WMA 516,9:00am,12:00 noon,Morning (9am - 12noon),6,1,2,2024/2025,PISAD AUD,76
+6--2,ABE 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ELBOG I,77
+6--2,ABE 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ELBOG II,78
+6--2,ANN 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,AGRIC LAB 1,69
+6--2,ANN 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,AGRIC LAB 2,70
+6--2,ARD 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,CAD,8
+6--2,CHM 404,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,MP02,19
+6--2,CSC 246,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,MP01,18
+6--2,CSC 442,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,JAO3,17
+6--2,CVE 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,RC203,28
+6--2,CVE 524,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,JAO2,16
+6--2,ELE 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ENG-AUD,13
+6--2,EMT 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,AUD III,93
+6--2,EMT 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,CENTS-AUD,58
+6--2,ETS 214,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ANE1,6
+6--2,FST 318,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,JAO1,15
+6--2,FWM 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,AUD I,87
+6--2,GLY 208,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,PISAD AUD,76
+6--2,HTM 316,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,COLFHEC2,11
+6--2,HTM 316,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,COLFHEC3,65
+6--2,HTM 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ANE2,7
+6--2,MCE 324,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,GLR II,72
+6--2,MCE 324,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,GLR III,73
+6--2,MTS 442,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,VET AUD,36
+6--2,MTS 442,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,VET 200,31
+6--2,STS 122,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,1000 CAP LT HALL,61
+6--2,STS 418,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,COLBIOS AUD,1
+6--2,VCS 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,VET 400,33
+6--2,VPR 402 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,VET_PARA_LAB,49
+6--2,WMA 210,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ACAD C1-C3,79
+6--2,WMA 210,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,ACAD C4-C6,80
+6--2,ZOO 460,2:00pm,5:00pm,Afternoon(2pm - 5pm),6,1,2,2024/2025,COLFHEC1,10
+7--1,AAD 510,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,AUD III,93
+7--1,ABE 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,GLR I,71
+7--1,ABE 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,GLR III,73
+7--1,ABE 322,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,CAD,8
+7--1,AEM 316,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ANE1,6
+7--1,AEM 316,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ANE2,7
+7--1,ANN 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,JAO2,16
+7--1,ANN 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,PBST LR,89
+7--1,ANP 504,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,1000 CAP LT HALL,61
+7--1,APH 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,AGRIC LAB 1,69
+7--1,APH 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,AGRIC LAB 2,70
+7--1,APH 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,PISAD AUD,76
+7--1,ARD 304,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,JAO3,17
+7--1,BOT 202,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,TETFUND BIO LAB,64
+7--1,BOT 406,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,AUD II,86
+7--1,CPT 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,AUD I,87
+7--1,CSC 446,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,JAO1,15
+7--1,CSC 446,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,PPCP LR,88
+7--1,CVE 508,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,RC203,28
+7--1,ECO 252,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,MP02,19
+7--1,ECO 252,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,MPL,20
+7--1,ELE 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ENG-AUD,13
+7--1,FIS 304,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ACAD C1-C3,79
+7--1,FIS 304,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ACAD B3,83
+7--1,FST 504,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ELBOG I,77
+7--1,FST 504,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ELBOG II,78
+7--1,FWM 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,MP01,18
+7--1,GLY 306,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,GEO_ROOM1,98
+7--1,HSM 408,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,TEXTILE LAB,60
+7--1,HSM 416,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,ACAD C4-C6,80
+7--1,HTM 310,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,COLFHEC1,10
+7--1,HTM 310,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,COLFHEC2,11
+7--1,MTE 304,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,CENTS-AUD,58
+7--1,MTS 468/ MTS 432,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,COLBIOS AUD,1
+7--1,NTD 210,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,VET AUD,36
+7--1,VCH 302,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,VET 200,31
+7--1,VCH 404,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,VET 400,33
+7--1,WMA 510,9:00am,12:00 noon,Morning (9am - 12noon),7,1,2,2024/2025,CPL,12
+7--2,ABE 224,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ENG-AUD,13
+7--2,AEM 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,CAD,8
+7--2,AFP 409/410/411/412,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,AGRIC LAB 1,69
+7--2,AFP 409/410/411/412,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,AGRIC LAB 2,70
+7--2,ARD 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,PISAD AUD,76
+7--2,BCH 418,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,COLBIOS AUD,1
+7--2,BFN 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ELBOG I,77
+7--2,BFN 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ELBOG II,78
+7--2,CVE 324,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,AUD I,87
+7--2,EMT 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,MP02,19
+7--2,ETS 412,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,CENTS-AUD,58
+7--2,ETS 412,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,COLFHEC1,10
+7--2,FIS 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,JAO1,15
+7--2,FRM 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,CPL,12
+7--2,FST 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,MP01,18
+7--2,FST 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,MPL,20
+7--2,HSM 214,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,AUD III,93
+7--2,HTM 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,COLFHEC2,11
+7--2,HTM 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,COLFHEC3,65
+7--2,LIS 106,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ACCT-400LR,53
+7--2,MCE 522,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ANE1,6
+7--2,MCE 522,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,ANE2,7
+7--2,MTS 216,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,1000 CAP LT HALL,61
+7--2,MTS 216,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,TETFUND PHS LAB,62
+7--2,PBS 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,JAO2,16
+7--2,PBS 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,JAO3,17
+7--2,VCH 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,VET 300,32
+7--2,VCM 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,VET AUD,36
+7--2,VCM 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,VET 200,31
+7--2,WMA 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,AUD II,86
+7--2,WRM 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),7,1,2,2024/2025,A110,3
+8--1,ABE 350,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ACAD C4-C6,80
+8--1,ABE 504,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,GLR III,73
+8--1,ABG 506,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,AUD III,93
+8--1,APH 502,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,AGRIC LAB 1,69
+8--1,APH 502,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,AGRIC LAB 2,70
+8--1,BCH 310,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,CENTS-AUD,58
+8--1,BCH 412,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,JAO2,16
+8--1,CHM 432,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,TETFUND PHS LAB,62
+8--1,CHM 432,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,TETFUND BIO LAB,64
+8--1,CPT 512,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,CPL,12
+8--1,CSC 218,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,MP01,18
+8--1,CVE 304,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ENG-AUD,13
+8--1,EMT 504,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ACAD C1-C3,79
+8--1,EMT 504,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ACAD B3,83
+8--1,ETS 210,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,JAO3,17
+8--1,ETS 310,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ELBOG I,77
+8--1,ETS 310,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ELBOG II,78
+8--1,FST 508,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,AUD I,87
+8--1,FWM 308,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,MP02,19
+8--1,GLY 206,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,PISAD AUD,76
+8--1,GNS 104,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ANE1,6
+8--1,GNS 104,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,ANE2,7
+8--1,HTM 204,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,MPL,20
+8--1,HTM 318,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,JAO1,15
+8--1,MCB 406,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,CAD,8
+8--1,MCE 508,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,PPCP LR,88
+8--1,MTE 102,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,RC203,28
+8--1,NTD 208,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,COLFHEC1,10
+8--1,NTD 208,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,COLFHEC2,11
+8--1,PBS 502,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,AUD II,86
+8--1,PHS 222,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,1000 CAP LT HALL,61
+8--1,STS 412,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,COLBIOS AUD,1
+8--1,VPT 404,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,VET 200,31
+8--1,ZOO 464,9:00am,12:00 noon,Morning (9am - 12noon),8,1,2,2024/2025,VET AUD,36
+8--2,AAD 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,MP01,18
+8--2,ABE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ANE1,6
+8--2,ABE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ANE2,7
+8--2,ABE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,AGRIC LAB 1,69
+8--2,ABE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,AGRIC LAB 2,70
+8--2,ABE 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,MPL,20
+8--2,AEM 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,CPL,12
+8--2,AFP 413/414/415/416,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ACAD C1-C3,79
+8--2,AFP 413/414/415/416,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ACAD B3,83
+8--2,ANN 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,CAD,8
+8--2,ANP 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,MP02,19
+8--2,ANP 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,JAO3,17
+8--2,ARD 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,JAO1,15
+8--2,BOT 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,AUD II,86
+8--2,BOT 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,VET AUD,36
+8--2,CSC 412,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,COLBIOS AUD,1
+8--2,ELE 308,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ENG-AUD,13
+8--2,ETS 216,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ELBOG I,77
+8--2,ETS 216,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ELBOG II,78
+8--2,FIS 514,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,AUD III,93
+8--2,FRM 504,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,CENTS-AUD,58
+8--2,GLY 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,GEO_ROOM1,98
+8--2,HRT 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,AUD I,87
+8--2,LIS 108,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,PISAD AUD,76
+8--2,MCE 312,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,GLR II,72
+8--2,MCE 312,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,GLR III,73
+8--2,MTS 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,JAO2,16
+8--2,NTD 410,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ACAD C4-C6,80
+8--2,NTD 410,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,ACAD B5,84
+8--2,PHS 472,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,TETFUND PHS LAB,62
+8--2,PHS 472,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,TETFUND CHM LAB,63
+8--2,SOS 522,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,1000 CAP LT HALL,61
+8--2,VPT 404 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),8,1,2,2024/2025,VET PATH LAB,38
+9--1,AAD 304,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,JAO3,17
+9--1,ABG 306,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,CAD,8
+9--1,ABG 306,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,CPL,12
+9--1,ANP 302,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,MP02,19
+9--1,ARD 520,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,JAO1,15
+9--1,BAM 406,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,AUD III,93
+9--1,BAM 406,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,CENTS-AUD,58
+9--1,CSC 440,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,ANE1,6
+9--1,CSC 440,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,ANE2,7
+9--1,CVE 504,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,AUD I,87
+9--1,ELE 504,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,ENG-AUD,13
+9--1,EMT 316,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,ACAD C1-C3,79
+9--1,EMT 316,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,ACAD B3,83
+9--1,FIS 308,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,COLFHEC1,10
+9--1,FIS 308,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,COLFHEC2,11
+9--1,FST 202,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,1000 CAP LT HALL,61
+9--1,GLY 308,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,GEO_ROOM1,98
+9--1,HSM 424,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,PATTERN LAB,59
+9--1,HTM 314,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,AUD II,86
+9--1,MTS 494,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,COLBIOS AUD,1
+9--1,PHS 494,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,JAO2,16
+9--1,SOS 518,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,MP01,18
+9--1,SOS 518,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,MPL,20
+9--1,VPR 404,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,VET 200,31
+9--1,WRM 506,9:00am,12:00 noon,Morning (9am - 12noon),9,1,2,2024/2025,PISAD AUD,76
+9--2,AAD 508,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,MP02,19
+9--2,ABG 502,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,AUD II,86
+9--2,AEM 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,JAO2,16
+9--2,ANP 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,CAD,8
+9--2,BAM 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,AUD III,93
+9--2,BAM 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,CENTS-AUD,58
+9--2,BOT 208,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,MP01,18
+9--2,CPT 510,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,VET AUD,36
+9--2,ELE 342,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,1000 CAP LT HALL,61
+9--2,ELE 342,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,ANE1,6
+9--2,FRM 506,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,PISAD AUD,76
+9--2,FST 314,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,ENG-AUD,13
+9--2,HSM 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,COLBIOS AUD,1
+9--2,HTM 102,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,JAO1,15
+9--2,MCB 404,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,JAO3,17
+9--2,NTD 416,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,COLFHEC1,10
+9--2,NTD 416,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,COLFHEC2,11
+9--2,STS 482,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,AGRIC LAB 1,69
+9--2,STS 482,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,AGRIC LAB 2,70
+9--2,VPR 404 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,VET_PARA_LAB,49
+9--2,WMA 322,2:00pm,5:00pm,Afternoon(2pm - 5pm),9,1,2,2024/2025,AUD I,87
+10--1,CVE 202,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,1000 CAP LT HALL,61
+10--1,CVE 202,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,COLBIOS AUD,1
+10--1,PHS 460/PHS 468,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ACAD C1-C3,79
+10--1,PHS 460/PHS 468,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ACAD B3,83
+10--1,ARD 516,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ACAD C4-C6,80
+10--1,ARD 516,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ACAD B5,84
+10--1,ETS 410,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ACCT-400LR,53
+10--1,ETS 410,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,BAM-400LR,45
+10--1,ETS 410,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,BFN-400LR,55
+10--1,ETS 410,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ECO-400LR,54
+10--1,ABG 508,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,AGRIC LAB 1,69
+10--1,ABG 508,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,AGRIC LAB 2,70
+10--1,MCB 116,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ANE1,6
+10--1,MCB 116,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ANE2,7
+10--1,EMT 102,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,AUD I,87
+10--1,CHM 422,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,AUD II,86
+10--1,CHM 422,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,PPCP LR,88
+10--1,CHM 422,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,PBST LR,89
+10--1,FIS 504,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,AUD III,93
+10--1,HSM 210,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,CENTS-AUD,58
+10--1,HTM 210,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,COLFHEC1,10
+10--1,HTM 210,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,COLFHEC3,65
+10--1,BOT 408,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,CPL,12
+10--1,BOT 408,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,R205,29
+10--1,AFP 401/402/403/404,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ELBOG I,77
+10--1,AFP 401/402/403/404,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ELBOG II,78
+10--1,ELE  302,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ENG-AUD,13
+10--1,ETS 316,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,ETS-400LR,46
+10--1,MCE 502,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,GLR I,71
+10--1,ABE 502,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,GLR III,73
+10--1,BIO 202,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,JAO1,15
+10--1,BIO 202,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,JAO2,16
+10--1,HRT 502,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,JAO3,17
+10--1,HRT 502,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,CAD,8
+10--1,PHS 242,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,YAKUB_MAHMOOD_HALL(EXAM),50
+10--1,SEN 104,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,MP01,18
+10--1,EMT 306,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,MP02,19
+10--1,EMT 306,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,MPL,20
+10--1,BOT 102,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,PISAD AUD,76
+10--1,STS 212,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,TETFUND PHS LAB,62
+10--1,STS 212,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,TETFUND BIO LAB,64
+10--1,VPT 302,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,VET 200,31
+10--1,VPC 404,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,VET 300,32
+10--1,FWM 312,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,VET AUD,36
+10--1,EMT 510,9:00am,12:00 noon,Morning (9am - 12noon),10,1,2,2024/2025,RC203,28
+10--2,AAD 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,JAO2,16
+10--2,AEM 306,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ENG-AUD,13
+10--2,ANN 302,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,JAO3,17
+10--2,ARD 306,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,MP01,18
+10--2,BCH 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ACAD C4-C6,80
+10--2,BCH 204,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ACAD B5,84
+10--2,BOT 104,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,CPL,12
+10--2,BOT 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,MPL,20
+10--2,CSC 444,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,1000 CAP LT HALL,61
+10--2,CVE 308,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,AGRIC LAB 1,69
+10--2,CVE 308,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,AGRIC LAB 2,70
+10--2,EMT 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ACAD C1-C3,79
+10--2,EMT 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ACAD B3,83
+10--2,EMT 522,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,AUD I,87
+10--2,ETS 218,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ELBOG I,77
+10--2,FIS 312,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,MP02,19
+10--2,FST 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,AUD III,93
+10--2,FST 512,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,RC203,28
+10--2,FWP 418,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,COLBIOS AUD,1
+10--2,HSM 202,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,CENTS-AUD,58
+10--2,HSM 422,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,COLFHEC1,10
+10--2,HTM 206,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,YAKUB_MAHMOOD_HALL(EXAM),50
+10--2,MCB 114,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ANE1,6
+10--2,MCB 114,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,ANE2,7
+10--2,PBS 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,CAD,8
+10--2,PCP 304,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,AUD II,86
+10--2,PHS 464,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,TETFUND PHS LAB,62
+10--2,STS 484,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,JAO1,15
+10--2,VBP 204 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,VET_PHY_LAB,48
+10--2,VPC 404 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,VET_PHARM_LAB,51
+10--2,VPT 302 P,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,VET PATH LAB,38
+10--2,WMA 316,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,VET AUD,36
+10--2,ZOO 104,2:00pm,5:00pm,Afternoon(2pm - 5pm),10,1,2,2024/2025,PISAD AUD,76
